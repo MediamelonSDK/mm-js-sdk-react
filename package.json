@@ -1,0 +1,19 @@
+{
+  "name": "mediamelon-react-sdk",
+  "version": "1.0.0",
+  "description": "MediaMelon ReactJS QoE SDK",
+  "main": "mmsmartstreaming_reactplayer.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MediamelonSDK/mm-js-sdk-react.git"
+  },
+  "author": "mediamelon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MediamelonSDK/mm-js-sdk-react/issues"
+  },
+  "homepage": "https://github.com/MediamelonSDK/mm-js-sdk-react#readme"
+}
